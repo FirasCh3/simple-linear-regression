@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from random import *
-xl=np.array([11,17,18,29,31,37])
-yl=np.array([10,14,20,27,33,41])
+xl=np.array([])
+yl=np.array([])
 for i in range(11):
     x=randint(1,4)
     y=randint(1,4)
